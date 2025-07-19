@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Flutter, Java, Tensorflow**
+- 💬 Ask me about **Java, Tensorflow**
 
-- 📫 How to reach me **shrivatsaindra77@gmail.com**
+- 📫 How to reach me **shrivatsaindra77@gmail.com** or **http://www.linkedin.com/in/shrivatsa-guru**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13_ZTvGfOv4tYYu8NzdroRxvgj1U9Hjni?usp=sharing](https://drive.google.com/drive/folders/13_ZTvGfOv4tYYu8NzdroRxvgj1U9Hjni?usp=sharing)
 
-- ⚡ Fun fact **I'm surprisingly good at debating.(NO I'M NOT RUDE)**
+- ⚡ Fun fact **I'm good at debating.(NO I'M NOT RUDE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
