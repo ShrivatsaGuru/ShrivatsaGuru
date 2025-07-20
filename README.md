@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, I'm Shrivatsa Guru</h1>
 <h3 align="center">A full-stack developer who loves experimenting with new technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrivatsaguru" alt="shrivatsaguru" /></a> </p>
-
 - 🔭 I’m currently working on [File Viewing System](https://github.com/ShrivatsaGuru/File_Viewing_System)
 
 - 🌱 I’m currently learning **Springboot, Android Studio, Angular**
@@ -11,17 +9,17 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Java, Tensorflow**
+- 💬 Ask me about **Flutter, Java, Tensorflow**
 
-- 📫 How to reach me **shrivatsaindra77@gmail.com** or **http://www.linkedin.com/in/shrivatsa-guru**
+- 📫 How to reach me **shrivatsaindra77@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13_ZTvGfOv4tYYu8NzdroRxvgj1U9Hjni?usp=sharing](https://drive.google.com/drive/folders/13_ZTvGfOv4tYYu8NzdroRxvgj1U9Hjni?usp=sharing)
 
-- ⚡ Fun fact **I'm good at debating.(NO I'M NOT RUDE)**
+- ⚡ Fun fact **I'm surprisingly good at debating.(NO I'M NOT RUDE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrivatsa-guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrivatsa indra guru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrivatsa-indra-guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrivatsa-indra-guru" height="30" width="40" /></a>
 <a href="https://kaggle.com/shrivatsaguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrivatsaguru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrivatsaindra77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrivatsaindra77" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrivatsaguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrivatsaguru" height="30" width="40" /></a>
@@ -34,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrivatsaguru&show_icons=true&locale=en&layout=compact" alt="shrivatsaguru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrivatsaguru&show_icons=true&locale=en" alt="shrivatsaguru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrivatsaguru&" alt="shrivatsaguru" /></p>
